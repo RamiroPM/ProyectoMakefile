@@ -1,0 +1,7 @@
+# Ejecutables y archivos de salida
+programa_makefile
+*.exe
+*.out
+
+# Objetos
+*.o
